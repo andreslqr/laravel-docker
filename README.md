@@ -4,7 +4,7 @@ Laravel Docker is a docker configuration for laravel ecosystem
 
 ## Installation
 
-Use docker [compose](https://docs.docker.com/compose/) for build the image
+Use [docker compose](https://docs.docker.com/compose/) for build the image
 
 ```bash
 docker-compose up --build
